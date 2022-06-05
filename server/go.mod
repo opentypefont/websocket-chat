@@ -1,4 +1,4 @@
-module github.com/620factory/websocket-chat/server
+module github.com/opentypefont/websocket-chat/server
 
 go 1.18
 
